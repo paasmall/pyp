@@ -1,5 +1,5 @@
 user.name jim
-user.email 313854005@qq.com  
+user.email 313******@qq.com  
 passworld lijian******
 码云（地址： https://gitee.com/ ）是国内的一个代码托管平台，由于服务器在国内，所以相比于GitHub，码云速度会更快
 
